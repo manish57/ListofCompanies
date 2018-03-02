@@ -1,0 +1,2 @@
+# ListofCompanies
+Angular simple application
